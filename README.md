@@ -1,2 +1,2 @@
 # blog
-Just blog
+First django application
